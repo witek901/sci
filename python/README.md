@@ -1,0 +1,1 @@
+Kilka zadań z Pythonem ze szkoły.
