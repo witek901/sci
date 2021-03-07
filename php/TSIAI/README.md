@@ -1,0 +1,1 @@
+Proste zadania z wykorzystaniem PHP.
