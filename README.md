@@ -1,0 +1,2 @@
+# sci
+zadania ze szkoły
